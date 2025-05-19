@@ -37,7 +37,7 @@ This is a simple and interactive Streamlit web app that uses Google's FLAN-T5 mo
 ## 📂 FILE STRUCTURE:
 
 neural-style-transfer-app/
-│
+
 ├── app.py                  # Main Streamlit app
 
 ├── style.css               #  CSS for UI styling
