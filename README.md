@@ -6,7 +6,7 @@
 
 *INTERN ID*: CODF219
 
-*DOMAIN*:ARTIFICIAL INTELLIGENCE
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
 
 *DURATION*: 4 WEEKS
 
@@ -39,10 +39,15 @@ This is a simple and interactive Streamlit web app that uses Google's FLAN-T5 mo
 neural-style-transfer-app/
 │
 ├── app.py                  # Main Streamlit app
+
 ├── style.css               #  CSS for UI styling
+
 ├── requirements.txt        # Python dependencies
+
 ├── .gitignore              # Files to ignore in Git
+
 └── screenshots/
+
     └── output.png  
 
 
