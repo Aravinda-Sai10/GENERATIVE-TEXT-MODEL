@@ -14,7 +14,7 @@
 
 # AI Text Generator using FLAN-T5
 
-This is a simple and interactive Streamlit web app that uses Google's FLAN-T5 model to generate answers based on your input questions. Powered by Hugging Face Transformers, this tool can answer questions, explain concepts, and more — all with a beautiful UI.
+This is a simple and interactive Streamlit web app that uses Google's FLAN-T5 model to generate answers based on your input questions. Powered by Hugging Face Transformers, this tool can answer questions, explain concepts, with attractive UI
 
 ---
 
