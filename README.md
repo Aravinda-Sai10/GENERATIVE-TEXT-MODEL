@@ -1,4 +1,18 @@
-                                     AI Text Generator using FLAN-T5
+# GENERATIVE TEXT MODEL
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME*: ARVA ARAVINDA SAI
+
+*INTERN ID*: CODF219
+
+*DOMAIN*:ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+# AI Text Generator using FLAN-T5
 
 This is a simple and interactive Streamlit web app that uses Google's FLAN-T5 model to generate answers based on your input questions. Powered by Hugging Face Transformers, this tool can answer questions, explain concepts, and more — all with a beautiful UI.
 
@@ -71,6 +85,10 @@ neural-style-transfer-app/
 ---
 # USES:
 1.**Question Answering**         – Get concise answers to general knowledge or factual queries.
+
 2.**Educational Assistance**     – Ask study-related questions and receive simplified explanations.
+
 3.**Personal Assistant Tasks**   – Quickly get definitions, summaries, or information without Googling.
+
 4.**Prototype AI Chatbot**       – Use it as a base to build more advanced conversational AI apps.
+
