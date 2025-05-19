@@ -58,8 +58,8 @@ neural-style-transfer-app/
 
 1. Clone this repository:
    
-   git clone https://github.com/Aravinda-Sai10/Text-Generator.git
-   cd Text-Generator
+   git clone https://github.com/Aravinda-Sai10/GENERATIVE-TEXT-MODEL.git
+   cd GENERATIVE-TEXT-MODEL
 
 2. Create and activate a virtual environment:
    python -m venv venv
