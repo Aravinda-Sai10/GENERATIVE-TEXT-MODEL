@@ -34,7 +34,7 @@ This is a simple and interactive Streamlit web app that uses Google's FLAN-T5 mo
 
 ---
 
-## 📂 FILE STRUCTURE:
+## FILE STRUCTURE:
 
 neural-style-transfer-app/
 
@@ -64,16 +64,17 @@ neural-style-transfer-app/
 1. Clone this repository:
    
    git clone https://github.com/Aravinda-Sai10/GENERATIVE-TEXT-MODEL.git
+   
    cd GENERATIVE-TEXT-MODEL
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
    python -m venv venv
    source venv/bin/activate  
 
-3. Install dependencies:
+4. Install dependencies:
    pip install -r requirements.txt
 
-4. Run the app:
+5. Run the app:
    streamlit run app.py
 
 ---
