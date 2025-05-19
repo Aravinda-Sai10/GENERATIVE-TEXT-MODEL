@@ -12,9 +12,11 @@ This is a simple and interactive Streamlit web app that uses Google's FLAN-T5 mo
 - Caches model to avoid reloading every time
 ---
 
-# SCREENSHOTS:
+# APP PREVIEW:
 
 ![APP PREVIEW](screenshots/OUTPUT%201.png)
+# WORKING:
+![OUTPUT 2](https://github.com/user-attachments/assets/4a26581d-8826-4912-8c17-5898d87c44cd)
 
 ---
 
@@ -40,14 +42,19 @@ neural-style-transfer-app/
 
 #  HOW TO RUN:
 
-1. Create and activate a virtual environment:
+1. Clone this repository:
+   
+   git clone https://github.com/Aravinda-Sai10/Text-Generator.git
+   cd Text-Generator
+
+2. Create and activate a virtual environment:
    python -m venv venv
    source venv/bin/activate  
 
-2. Install dependencies:
+3. Install dependencies:
    pip install -r requirements.txt
 
-3. Run the app:
+4. Run the app:
    streamlit run app.py
 
 ---
@@ -61,5 +68,9 @@ neural-style-transfer-app/
    - Receives a generated response
    - Displays the answer interactively
 
-
 ---
+# USES:
+1.**Question Answering**         – Get concise answers to general knowledge or factual queries.
+2.**Educational Assistance**     – Ask study-related questions and receive simplified explanations.
+3.**Personal Assistant Tasks**   – Quickly get definitions, summaries, or information without Googling.
+4.**Prototype AI Chatbot**       – Use it as a base to build more advanced conversational AI apps.
