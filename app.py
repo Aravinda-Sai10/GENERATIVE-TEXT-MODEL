@@ -39,7 +39,7 @@ st.markdown("<p class='description'>Ask anything and get real answers instantly 
 user_question = st.text_input("❓ Ask a question")
 
 # When user clicks the "Get Answer" button
-if st.button("🔍 Get Answer"):
+if st.button("Get Answer"):
     # Check if the input is not empty
     if user_question.strip() == "":
         # Show a warning if input is empty
