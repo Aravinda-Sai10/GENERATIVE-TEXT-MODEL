@@ -1,0 +1,63 @@
+/* App background Style */
+.stApp {
+    background: linear-gradient(to right,#e7cfd7); /* light pink to white */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Main title */
+.main-title {
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    color: #e91e63; /* vibrant pink */
+    margin-top: 30px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+/* Description under title */
+.description {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #7b1fa2;
+    margin-bottom: 30px;
+    font-style: italic;
+}
+
+/* Style for the input box */
+input[type="text"] {
+    border: 2px solid #e91e63;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 1.1rem;
+    background-color: #fff;
+}
+
+/* Button styling */
+button[kind="primary"] {
+    background-color: #8e24aa;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 0.6rem 1.2rem;
+    transition: background-color 0.3s ease;
+    font-size: 1rem;
+}
+
+button[kind="primary"]:hover {
+    background-color: #d81b60;
+}
+
+/* Answer display box */
+.stMarkdown h3 {
+    color: #4a148c;
+    margin-top: 20px;
+}
+
+.stSuccess {
+    background-color: #fce4ec;
+    border-left: 5px solid #ec407a;
+    color: #4a148c;
+    font-size: 1.1rem;
+    padding: 15px;
+    border-radius: 8px;
+}
